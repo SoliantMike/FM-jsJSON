@@ -14,3 +14,4 @@ To run the demo:
 
 The javascript used is in the Resources table, and can be modified for your use from there.
 
+Now updated to support FileMaker 16.
