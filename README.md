@@ -15,3 +15,5 @@ To run the demo:
 The javascript used is in the Resources table, and can be modified for your use from there.
 
 Now updated to support FileMaker 16.
+
+Read more here: http://www.soliantconsulting.com/blog/2017/06/filemaker-16-javascript-changes
